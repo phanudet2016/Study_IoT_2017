@@ -1,0 +1,20 @@
+******* Thingspeak *******
+5706021622141@fitm.kmutnb.ac.th
+P@ssw0rd
+https://thingspeak.com/
+
+**************************
+
+******* Netpie *******
+5706021622141@fitm.kmutnb.ac.th
+08486787bg
+https://netpie.io/
+
+**************************
+
+******* Iottweet *******
+beerzazy
+08486787bg
+https://www.iottweet.com/index.php
+
+**************************
