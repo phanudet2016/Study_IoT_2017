@@ -18,3 +18,6 @@ beerzazy
 https://www.iottweet.com/index.php
 
 **************************
+
+
+datasources["dashboard"]["/nuttapun/dht/dht"].split(",")[0]
